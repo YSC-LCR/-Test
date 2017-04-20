@@ -1,0 +1,80 @@
+windows explorer integration 檔案瀏覽器整合（右鍵選單）
+微軟 開發者 集成
+
+Git Bash here 在這裡開啟 Git Bash
+Bash 嘗試
+
+Git GUI Here: 在這裡開啟 Git 圖形介面
+
+Associate .git* …: 使用預設文字編輯器編輯 .git* 檔案
+
+Associate .sh …: 使用 Git Bash 執行 .sh 檔案
+
+Use Git from Git Bash only: 僅在 Git Bash 中使用 Git
+modified 修改
+
+Use Git from Windows Command Prompt: 在 Windows 命令提示字元中使用 Git
+cluttering 搗亂
+同時可以在Git Bash與cmd下指令
+
+Use Git and optional Unix tools from …: 在命令提示字元中使用 Git 和其他 Unix 工具
+cmd與powershell使用git指令與unix
+
+注意：Windows 原有的 “find” 和 “sort” 等指令將被取代，選擇前請務必先了解
+
+use the openssl library
+在電腦網路上，OpenSSL是一個開放原始碼的軟體函式庫套件，應用程式可以使用這個套件來進行安全通訊
+，避免竊聽，同時確認另一端連線者的身分。這個套件廣泛被應用在網際網路的網頁伺服器上。
+
+use the native windows secure channel library  意思
+
+安全通道，也稱為Schannel，是一種安全支持提供程序（SSP），它包含一組通過加密提供身份認證和安全的私人通信的安全協議。
+Schannel主要用於需要安全超文本傳輸協議（HTTP）通信的Internet應用程序。
+
+Checkout Windows-style, commit Unix-style line endings
+
+讓 Git 在 Checkout 時自動將 LF（Unix）轉換為 CRLF（Windows）；在 Commit 時自動將 CRLF（Windows）轉換為 LF（Unix）。若用於跨平台專案，建議選擇此項。
+
+? Checkout as it is, commit Unix-style line endings
+
+設定 Git 在 Checkout 時不自動轉換；在 Commit 時自動將 CRLF（Windows）轉換為 LF（Unix）。若用於跨平台專案，建議於 Unix 主機上選擇此項。
+
+
+? Checkout as it is, commit as it is
+
+設定 Git 在 Checkout 和Commit 時皆不自動轉換。不建議用於跨平台專案。
+
+mintty是Cygwin的免費開源 終端仿真器，適用於Windows的類Unix環境。它具有本機Windows 用戶界面，不需要顯示服務器 ; 其終端仿真旨在與xterm兼容
+
+enable file system caching：??文件系??存；
+
+enable Git credential manager：使Git?据管理器；
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
